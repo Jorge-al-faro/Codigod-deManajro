@@ -29,3 +29,11 @@ Global regular expression print". Por defecto grep busca las líneas que coincid
 
 $ grep [opciones] patrón [fichero] ó
 $ grep [opciones] -f fichero-que-contiene-los-patrones-de-búsqueda fichero
+
+
+#Estructura
+gksudo nombre_del_programa usr1
+gksudo nombre_del_programa5 usr2
+beesu gedit usr1
+beesu rrot usr1.
+
