@@ -1,0 +1,31 @@
+#Codigos y acciones.
+
+pacman -Syu
+#actulaiza todo el sistema.
+
+sudo pacman -S unrar zip unzip p7zip gzip bzip2
+#instalar nurvos paquetses. y decomprimirlos.
+
+sudo pacman -S yay
+#modod istalacion de AUR
+
+sudo yay -S --needed base-devel
+#istala  y actializa los paquetes. 
+
+yay -S google-chrome
+#mediante la terminal podemos instalar googlechrome
+
+
+uname -a
+#kernel del iso. 
+
+sudo useradd -m nombredeusuario -G wheel -p passworddelusuario
+#crea 3 usuario nuevos con sus contraseñas. 
+
+Grep
+# linea para comandos
+es una utilidad de la línea de comandos escrita originalmente para ser usada con el sistema operativo Unix.
+Global regular expression print". Por defecto grep busca las líneas que coinciden y las imprime en la salida estándard#
+
+$ grep [opciones] patrón [fichero] ó
+$ grep [opciones] -f fichero-que-contiene-los-patrones-de-búsqueda fichero
